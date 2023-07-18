@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Submission 2</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="find_your_connection">Find your connection…</string>
+    <string name="copyright">Build with By Muslim Hakim Muhammad 2023 ©Bangkit Dicoding</string>
+</resources>
